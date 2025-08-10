@@ -67,6 +67,3 @@ python zero_budget_app_1.5.py
   - **Saving**: id, name, amount  
 
 ---
-
-## License
-MIT License – Feel free to use, modify, and share.
