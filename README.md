@@ -1,8 +1,7 @@
 # Zero-Based Budgeting App
 
-A **Python desktop application** for managing your personal finances using the **Zero-Based Budgeting** principle:  
-> **Income – (Expenses + Savings) = 0**  
-Every rupee is assigned a purpose — nothing is left unallocated.
+A **Python desktop application** for managing your personal finances using the **Zero-Based Budgeting** principle  
+
 
 Built with **Tkinter** for the interface and **SQLite** for data storage, this app helps you track incomes, expenses, and savings in real time.
 
