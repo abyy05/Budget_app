@@ -41,10 +41,6 @@ python zero_budget_app_1.5.py
 
 ---
 
-## Screenshots
-*(Add screenshots of the interface here)*
-
----
 
 ## Tech Stack
 
